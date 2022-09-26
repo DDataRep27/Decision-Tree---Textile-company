@@ -1,7 +1,8 @@
-The complete dataset can be found here.
+##### The complete dataset can be found here.
 
 About the data: 
-Let’s consider a Company dataset with around 10 variables and 400 records. 
+*Let’s consider a Company dataset with around 10 variables and 400 records.* 
+
 The attributes are as follows: 
 * Sales -- Unit sales (in thousands) at each location
 * Competitor Price -- Price charged by competitor at each location
